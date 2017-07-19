@@ -1,1 +1,4 @@
 secondfile
+a
+b
+c
